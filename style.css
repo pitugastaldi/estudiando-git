@@ -5,15 +5,18 @@
 }
 
 
-.
-
 .img1{
     max-width: 37.5rem;
     max-height: 37.5rem;
-    display: flex;
 
 }
+
 .img2{
     max-height: 31.25rem;
     max-width: 37.5rem;
+}
+
+.imagen{
+    display: flex;
+    flex-direction: row;
 }
